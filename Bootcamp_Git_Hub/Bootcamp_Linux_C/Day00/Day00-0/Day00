@@ -1,0 +1,26 @@
+/* ***************************************************************** 
+*	
+*	Project: Day00-0 Linux_C 
+*
+*	Start: 08/11/2019 12:49:03
+*
+*
+*
+*	Created by: Prince Mosa M
+*
+ **************************************************************** */
+
+This is an practice of some linux commands used on Apple Mac Computers
+======================================================================
+
+
+This is Day00-0 Bootcamp on C @ WTC.
+------------------------------------
+************************************************************************************************************
+
+COMMANDS PRACTICED:
+1. pwd - shows the dictorary of the current opened file dictory.
+2. ls - shows the list of the current items in the dictorary.
+3. mkdir - makes and creates the file/ dictorary where ever it is placed.
+4. touch - create files like docs, txt, html, js, vb, c, cbp, cpp, h, and many more.
+5. man man - is the manual book that has the list to help .......remember do not ask for the commands.

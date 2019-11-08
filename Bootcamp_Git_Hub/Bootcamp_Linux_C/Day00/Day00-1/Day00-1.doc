@@ -1,0 +1,26 @@
+/* *****************************************************************************
+*
+*	Project: Day00-0 Linux_C
+*
+*	Start: 08/11/2019 13:14:26
+*
+*
+*
+*
+*	Created by: Prince Mosa M
+*
+ ***************************************************************************** */
+
+ This is an practice of some linux commands used on Mac Pc's
+ ===========================================================
+
+ This is Day00-1 Bootcamp on C @ WTC.
+ ------------------------------------
+ ******************************************************************************************************************************
+
+ COMMANDS PRACTICED:
+ 1. ls -la - show list of hidden files and other files which did not appear by the command of ls alone but ls -la shows all.
+ 2. vim - is an editor tool in the cmd/bash which assist's in writing codes and other different type of text.
+ 3. cat is to view the files like docs, source files and other textual files.
+ 4. rm -rf - to remove files or documents or anty items within the dictorary.
+ 5. mv - is to move files and documents and other items to another destinational dictoraries.
