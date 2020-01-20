@@ -1,0 +1,26 @@
+/* *****************************************************************************
+*
+*	Project: Day00-2 Linux_C
+*
+*	Start: 08/11/2019 13:47:44
+*
+*
+*
+*
+*	Created by: Prince Mosa M
+*
+ ***************************************************************************** */
+
+ This is an practice of some linux commands used on Mac Pc's
+ ===========================================================
+
+ This is Day00-1 Bootcamp on C @ WTC.
+ ------------------------------------
+ ******************************************************************************************************************************
+
+ COMMANDS PRACTICED:
+ 1. chmod - to change permissions of dictorary files.
+ 2. cp - to copy items to another file or dictorary.
+ 3. ls -l - to view the visible files and items in the dictorary more ls -la command.
+ 4. cd - to enter files and dictoraries.
+ 5. cd .. - to exit the dictorary of an file.

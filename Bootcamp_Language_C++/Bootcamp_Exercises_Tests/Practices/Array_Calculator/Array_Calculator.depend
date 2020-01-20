@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1189868556 source:c:\users\wethinkcode_#\documents\august_bootcamp\bootcamp_exercises_tests\practices\array_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566753941 source:c:\users\wethinkcode_#\documents\august_bootcamp\bootcamp_exercises_tests\practices\alpha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
